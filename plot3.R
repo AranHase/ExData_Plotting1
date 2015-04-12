@@ -1,6 +1,6 @@
 
 ##
-# Plot the Global Active Power by Time.
+# Plot the Energy Sub Metering by Time.
 #
 # Inputs:
 # raw = raw data of the "household_power_consumption.txt" file
